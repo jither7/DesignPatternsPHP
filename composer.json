@@ -1,0 +1,14 @@
+{
+    "name": "design-patterns-php",
+    "authors": [
+        {
+            "name": "Anh, Pham The",
+            "email": "phamtheanh0702@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "autoload": {}
+}
