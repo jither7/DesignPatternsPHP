@@ -1,14 +1,12 @@
 {
-    "name": "design-patterns-php",
+    "name": "elephant-framework",
     "authors": [
         {
-            "name": "Anh, Pham The",
+            "name": "anh.phamthe",
             "email": "phamtheanh0702@gmail.com"
         }
     ],
-    "require": {},
-    "require-dev": {
-        "phpunit/phpunit": "^6.2"
-    },
-    "autoload": {}
+    "require": {
+        "symfony/http-foundation": "^3.3"
+    }
 }
